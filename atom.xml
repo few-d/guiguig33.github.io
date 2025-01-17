@@ -6,7 +6,7 @@
   <link href="http://guiguig33.com/atom.xml" rel="self"/>
   
   <link href="http://guiguig33.com/"/>
-  <updated>2025-01-15T13:55:58.856Z</updated>
+  <updated>2025-01-17T08:54:21.026Z</updated>
   <id>http://guiguig33.com/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>python初识</title>
+    <link href="http://guiguig33.com/2025/01/10/py_one/"/>
+    <id>http://guiguig33.com/2025/01/10/py_one/</id>
+    <published>2025-01-10T13:16:00.000Z</published>
+    <updated>2025-01-17T08:54:21.026Z</updated>
+    
+    
+    
+    
+    <category term="Python" scheme="http://guiguig33.com/categories/Python/"/>
+    
+    
+    <category term="python" scheme="http://guiguig33.com/tags/python/"/>
+    
+  </entry>
   
   <entry>
     <title>hacker</title>
