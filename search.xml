@@ -104,6 +104,31 @@
     
     
     <entry>
+      <title>day1-python扫盲</title>
+      <link href="/2025/03/26/pystudy/day1/"/>
+      <url>/2025/03/26/pystudy/day1/</url>
+      
+        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="d75400428a6133c48b6da66f510901b5a0ae5d4e79b228b0de01b50362e7d99e">90cad47ece70b807751f4b76c697196a49890a43fe5a68d32b8bc2c409a5bd41</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-shrink">      <input class="hbe hbe-input-field hbe-input-field-shrink" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-shrink" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-shrink">你猜猜密码是什么</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      
+      
+      <categories>
+          
+          <category> python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> python </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>时间安排</title>
       <link href="/2025/02/09/orther/time/"/>
       <url>/2025/02/09/orther/time/</url>
